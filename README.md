@@ -12,7 +12,7 @@ An advanced movie recommendation system utilizing **Collaborative Filtering** (W
 2. Suggest movies based on the **title** provided by the user.  
 3. Enable recommendations based on **genre only** or a combination of **genre and release year**.  
 4. Perform **Sentiment Analysis** to categorize user reviews for each movie.  
-5. Implement **Neural Networks** for **Matrix Factorization** in (**).  
+5. Implement **Neural Networks** for **Matrix Factorization** in (*Recommovie_9604_Notebook.ipynb*).  
 
 To optimize deployment, **data exploration and feature selection** have been conducted on the complete dataset.  
 
